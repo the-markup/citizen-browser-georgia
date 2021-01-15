@@ -8,7 +8,7 @@ Our methodology is described in "[How We Built a Facebook Inspector](https://the
 We omit any domains that were seen by only one person.
 
 ## Licensing
-Copyright 2020, The Markup News Inc.
+Copyright 2021, The Markup News Inc.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
